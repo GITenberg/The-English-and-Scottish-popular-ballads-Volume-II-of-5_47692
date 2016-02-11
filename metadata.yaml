@@ -1,0 +1,28 @@
+_repo: The-English-and-Scottish-popular-ballads-Volume-II-of-5_47692
+contributor:
+  creator:
+    editor:
+      agent_name: Child, Francis James
+      alias: Child, F. J. (Francis James)
+      birthdate: 1825
+      deathdate: 1896
+      gutenberg_agent_id: '38603'
+      url: http://www.gutenberg.org/2009/agents/38603
+      wikipedia: http://en.wikipedia.org/wiki/Francis_James_Child
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2014-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47692'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The English and Scottish popular ballads (Volume II of 5)
+url: http://www.gutenberg.org/ebooks/47692
