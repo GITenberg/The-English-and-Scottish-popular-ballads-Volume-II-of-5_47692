@@ -1,4 +1,5 @@
 _repo: The-English-and-Scottish-popular-ballads-Volume-II-of-5_47692
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -9,6 +10,9 @@ contributor:
       gutenberg_agent_id: '38603'
       url: http://www.gutenberg.org/2009/agents/38603
       wikipedia: http://en.wikipedia.org/wiki/Francis_James_Child
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Various
@@ -16,6 +20,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47692#The-English-and-Scottish-popular-ballads-Volume-II-of-5
 gutenberg_issued: '2014-12-17'
 gutenberg_type: Text
 identifiers:
