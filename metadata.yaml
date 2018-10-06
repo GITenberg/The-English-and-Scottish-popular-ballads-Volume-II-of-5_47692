@@ -30,5 +30,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: The English and Scottish popular ballads (Volume II of 5)
 url: http://www.gutenberg.org/ebooks/47692
